@@ -231,6 +231,10 @@ body {
   line-height: 1.8;
 }
 
+#pixel-achievement-grid h3{
+  line-height: 1.8;
+}
+
 @media (max-width: 700px) {
   .pixel-section {
     padding: 16px 4px;
@@ -288,4 +292,13 @@ body {
 .pixel-social-icon {
   font-size: 1.3em;
   margin-right: 8px;
+} 
+
+.highlight-intern {
+  color: #FFD700;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 #222, 0 0 6px #FFD700;
+  padding: 0 4px;
+  border-radius: 2px;
+  background: none;
 } 
